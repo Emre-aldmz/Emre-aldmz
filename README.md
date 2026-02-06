@@ -2,6 +2,8 @@
 
 # Hi there, I'm Emre Aldirmaz! 👋
 
+<br clear="right"/>
+
 I am an Information Systems and Technologies student, a Cyber Security enthusiast, and an AI & Computer Vision researcher.
 
 ### 🛠 Tech Stack & Tools
