@@ -17,7 +17,7 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 
 <img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
 
-### What I'm Up To
+### My interests
 
 - **Linux 🐧** I love Linux
 - **Cyber Security**
