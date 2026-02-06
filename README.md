@@ -30,20 +30,4 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
   
 ---
 
-### 🏆 Achievements & Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emre-aldmz&theme=darkhub&no-frame=true&margin-w=4" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emre-aldmz&theme=dark&hide_border=true" />
-</div>
-
----
-
-### 📫 Reach Out to Me
-- **Email:** emrealdirmaz28@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/emre-aldrmz/ 
