@@ -1,8 +1,6 @@
-# Hi there, I'm Emre Aldirmaz! 👋
+# I'm Emre Aldirmaz! 
 
-I am an Information Systems and Technologies student, a Cyber Security enthusiast, and an AI & Computer Vision researcher.
-
-### 🛠 Tech Stack & Tools
+I am an Information Systems and Technologies student, a Cyber Security enthusiast.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CachyOS](https://img.shields.io/badge/CachyOS-005577?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -19,7 +17,7 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 
 <img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
 - **Linux 🐧** I love Linux
 - **Cyber Security**
