@@ -1,4 +1,4 @@
-# I'm Emre Aldirmaz! 
+# Emre Aldirmaz 
 
 I am an Information Systems and Technologies student, a Cyber Security enthusiast.
 
