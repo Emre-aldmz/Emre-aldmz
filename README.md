@@ -1,4 +1,5 @@
 <img align="right" alt="Cyber Security GIF" width="420px" src="https://c.tenor.com/XfiV1J8zT2EAAAAd/tenor.gif"/>
+<br clear="right"/>
 
 # Hi there, I'm Emre Aldirmaz! 👋
 
