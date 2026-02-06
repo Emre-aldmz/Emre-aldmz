@@ -1,4 +1,4 @@
-<img align="right" alt="Cyber Security GIF" width="420px" src="[https://c.tenor.com/XfiV1J8zT2EAAAAd/tenor.gif](https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif)"/>
+<img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
 
 # Hi there, I'm Emre Aldirmaz! 👋
 
