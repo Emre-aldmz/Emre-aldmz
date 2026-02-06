@@ -21,10 +21,10 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 
 ### 🚀 What I'm Up To
 
-- 🐧 **Linux:** I love Linux
-- 🛡️ **Cyber Security:**
-- 💻 **Development:**
-- 🧠 **AI & Computer Vision:**
+- **Linux 🐧** I love Linux
+- **Cyber Security**
+- **Development**
+- **AI & Computer Vision**
 
 <br clear="right"/>
   
