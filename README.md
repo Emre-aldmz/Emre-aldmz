@@ -2,8 +2,6 @@
 
 I am an Information Systems and Technologies student, a Cyber Security enthusiast, and an AI & Computer Vision researcher.
 
-<img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
-
 ### 🛠 Tech Stack & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -17,9 +15,9 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-E91E63?style=for-the-badge&logo=icloud&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
-<br clear="right"/>
-
 ---
+
+<img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
 
 ### 🚀 What I'm Up To
 
@@ -27,6 +25,8 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 - 🛡️ **Cyber Security:**
 - 💻 **Development:**
 - 🧠 **AI & Computer Vision:**
+
+<br clear="right"/>
   
 ---
 
