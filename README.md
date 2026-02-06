@@ -30,10 +30,11 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
   
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-aldmz&layout=compact&theme=dark&include_all_commits=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=Emre-aldmz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-aldmz&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emre-aldmz&theme=dark&hide_border=true)
 
 ---
 
