@@ -30,10 +30,18 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
   
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emre-aldmz&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/stats/?username=Emre-aldmz&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emre-aldmz&theme=darkhub&no-frame=true&margin-w=4" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emre-aldmz&theme=dark&hide_border=true" />
+</div>
+
 ---
 
 ### 📫 Reach Out to Me
