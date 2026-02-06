@@ -1,10 +1,8 @@
 # Hi there, I'm Emre Aldirmaz! 👋
 
-<img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
-
 I am an Information Systems and Technologies student, a Cyber Security enthusiast, and an AI & Computer Vision researcher.
 
-<br clear="right"/>
+<img align="right" alt="Cyber Security GIF" width="420px" src="https://uinona.net/wp-content/uploads/gif_517/animated_0000028258.gif"/>
 
 ### 🛠 Tech Stack & Tools
 
@@ -18,6 +16,8 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-E91E63?style=for-the-badge&logo=icloud&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+
+<br clear="right"/>
 
 ---
 
