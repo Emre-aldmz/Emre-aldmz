@@ -8,6 +8,8 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 ![Tor Browser](https://img.shields.io/badge/Tor%20Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-E91E63?style=for-the-badge&logo=icloud&logoColor=white)
@@ -25,7 +27,3 @@ I am an Information Systems and Technologies student, a Cyber Security enthusias
 - **AI & Computer Vision**
 
 <br clear="right"/>
-  
----
-
-
